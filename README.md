@@ -15,10 +15,6 @@
 <a href="https://stackoverflow.com/users/12835832/aaron-yang" target="_blank">
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </a>  
-<!-- <a href="https://www.kaggle.com/aastha124" target="_blank">
-  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-</a>   -->
-
 
 - 👋 Hi, I’m Aaron Yang
 - 💼 I'm a Software Engineer, or maybe a Devopser
@@ -58,11 +54,8 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/AaronYang0628/github-readme-stats"><img alt="Aaron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronYang0628&show_icons=true&count_private=true&theme=transparent " height="192px"/></a>
-<br/>
-  &nbsp;
+    <a href="https://github.com/AaronYang0628/github-readme-stats"><img alt="Aaron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronYang0628&show_icons=true&count_private=true&theme=transparent" height="192px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AaronYang0628&show_icons=true&locale=en&layout=compact&theme=transparent" alt="AaronYang0628" height="192px"/>
-  <br/>
   </p>
 </details>
 

@@ -67,6 +67,7 @@ pe "kubectl apply -f bad/no_dupe_ns_2.yaml"
 
 pe "kubectl get k8srequiredlabels ns-must-have-gk -o yaml"
 
+wait
 
 kubectl delete -f constraints
 kubectl delete -f templates
