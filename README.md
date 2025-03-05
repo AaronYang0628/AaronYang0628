@@ -58,10 +58,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/AaronYang0628/github-readme-stats"><img alt="Aaron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronYang0628&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/AaronYang0628/github-readme-stats"><img alt="Aaron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronYang0628&show_icons=true&count_private=true&theme=transparent " height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AaronYang0628&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AaronYang0628" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AaronYang0628&show_icons=true&locale=en&layout=compact&theme=transparent" alt="AaronYang0628" height="192px"/>
   <br/>
   </p>
 </details>
@@ -77,12 +77,6 @@
 
 <br/>
 
-<!-- ## Popular Projects
-<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
-</a>  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats&show_owner=true)
 
-
-<a href="https://github.com/aastha12/Loan_Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
-</a>  -->
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d&show_owner=true)
