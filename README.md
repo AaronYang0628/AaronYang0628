@@ -22,6 +22,7 @@
 
 - 👋 Hi, I’m Aaron Yang
 - 💼 I'm a Software Engineer, or maybe a Devopser
+- 😍 Interested in Metrics & Observability features
 - 💬 Talk to me about freelancing opportunities in HPC cluster and software engineering
 <!-- - 👯 I’m looking to collaborate on backend software engineering projects -->
 
@@ -69,7 +70,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/AaronYang0628"><img alt="Aaron's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AaronYang0628&custom_title=Aaron's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/AaronYang0628"><img alt="Aaron's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AaronYang0628&bg_color=fafafa&color=837c83&line=e97435&point=e8944f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
   <br/>
 
 </details>
