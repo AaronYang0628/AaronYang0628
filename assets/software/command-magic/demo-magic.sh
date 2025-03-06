@@ -151,7 +151,7 @@ function check_pv() {
 
     echo ""
     echo -e "${RED}##############################################################"
-    echo "# HOLD IT!! I require pv but it's not installed.  Aborting." >&2;
+    echo "# HOLD IT!! Demo Magic require pv but it's not installed.  Aborting." >&2;
     echo -e "${RED}##############################################################"
     echo ""
     echo -e "${COLOR_RESET}Installing pv:"

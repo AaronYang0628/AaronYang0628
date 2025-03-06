@@ -14,4 +14,6 @@ spec:
         kind: "Pod"
   match:
     - excludedNamespaces: ["kube-*"]
+      # audit webhook sync mutation-webhook
+      # for more detail, check https://open-policy-agent.github.io/gatekeeper/website/docs/exempt-namespaces
       processes: ["*"]

@@ -22,6 +22,7 @@ spec:
         package k8srequiredlabels
 
         violation[{"msg": msg, "details": {"missing_labels": missing}}] {
+          # input.review -> https://open-policy-agent.github.io/gatekeeper/website/docs/input
           provided := {label | input.review.object.metadata.labels[label]}
           required := {label | label := input.parameters.labels[_]}
           missing := required - provided
