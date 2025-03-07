@@ -51,28 +51,18 @@
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/AaronYang0628/github-readme-stats"><img alt="Aaron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronYang0628&show_icons=true&count_private=true&theme=transparent" height="192px" width="45%"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AaronYang0628&show_icons=true&locale=en&layout=compact&theme=transparent" alt="AaronYang0628" height="196px" width="45%"/>
-  </p>
-</details>
+
+<summary><b>💻 GitHub Profile Stats</b></summary>
+<br/>
+<p align="center">
+  <a href="https://github.com/AaronYang0628/github-readme-stats"><img alt="Aaron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronYang0628&show_icons=true&count_private=true&theme=transparent" height="188px" width="45%"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AaronYang0628&show_icons=true&locale=en&layout=compact&theme=transparent" alt="AaronYang0628" height="196px" width="45%"/>
+</p>
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/AaronYang0628"><img alt="Aaron's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AaronYang0628&bg_color=fafafa&color=837c83&line=e97435&point=e8944f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
-  <br/>
-
-</details>
-
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+<br/>
+  <a href="https://github.com/AaronYang0628"><img alt="Aaron's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AaronYang0628&bg_color=fafafa&color=837c83&line=e97435&point=e8944f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AaronYang0628&repo=charts)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AaronYang0628&repo=containers)](https://github.com/anuraghazra/github-readme-stats&show_owner=true)
-
-<!-- [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d&show_owner=true) -->
+<br/>
