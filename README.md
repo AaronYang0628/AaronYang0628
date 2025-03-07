@@ -55,8 +55,8 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/AaronYang0628/github-readme-stats"><img alt="Aaron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronYang0628&show_icons=true&count_private=true&theme=transparent" height="192px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AaronYang0628&show_icons=true&locale=en&layout=compact&theme=transparent" alt="AaronYang0628" height="192px"/>
+    <a href="https://github.com/AaronYang0628/github-readme-stats"><img alt="Aaron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronYang0628&show_icons=true&count_private=true&theme=transparent" height="192px" width="45%"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AaronYang0628&show_icons=true&locale=en&layout=compact&theme=transparent" alt="AaronYang0628" height="192px" width="45%"/>
   </p>
 </details>
 
