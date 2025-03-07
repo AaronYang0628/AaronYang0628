@@ -56,7 +56,7 @@
   <br/>
   <p align="center">
     <a href="https://github.com/AaronYang0628/github-readme-stats"><img alt="Aaron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronYang0628&show_icons=true&count_private=true&theme=transparent" height="192px" width="45%"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AaronYang0628&show_icons=true&locale=en&layout=compact&theme=transparent" alt="AaronYang0628" height="192px" width="45%"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AaronYang0628&show_icons=true&locale=en&layout=compact&theme=transparent" alt="AaronYang0628" height="196px" width="45%"/>
   </p>
 </details>
 
@@ -71,8 +71,8 @@
 
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AaronYang0628&repo=charts)](https://github.com/AaronYang0628/charts&show_owner=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AaronYang0628&repo=charts)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AaronYang0628&repo=containers)](https://github.com/AaronYang0628/containers&show_owner=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AaronYang0628&repo=containers)](https://github.com/anuraghazra/github-readme-stats&show_owner=true)
 
 <!-- [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d&show_owner=true) -->
